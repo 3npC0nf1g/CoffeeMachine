@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coffeeMachine",
+  "scripts": {
+    "watch": "tsc src/index.ts --watch --outfile ../dist/index.js --target ES2015"
+  },
+  "author": "3npC0nf1g",
+  "license": "ISC",
+  "dependencies": {
+    "sync-input": "https://github.com/hyperskill/sync-input/archive/v1.tar.gz"
+  }
+}
