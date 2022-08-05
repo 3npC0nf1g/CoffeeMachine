@@ -1,9 +1,0 @@
-{
-    "compilerOptions": {
-        "module": "System",
-        "target": "ES2015",
-        "lib": ["es2015"],
-        "outFile": "../dist/index.js"
-    },
-    "include": ["src/**/*"]
-}

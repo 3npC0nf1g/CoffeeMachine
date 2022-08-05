@@ -1,7 +1,8 @@
-.DS_Store
-Thumbs.db
 .vscode/
 dist/
 src/
-t.*
-m.*
+tsconfig.json
+machineCoffeeV4.js
+test.js
+yo.js
+package.json
